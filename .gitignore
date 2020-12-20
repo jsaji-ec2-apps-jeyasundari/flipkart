@@ -1,3 +1,7 @@
  .classpath
  .project
  /node_modules
+ .ortho
+ .psycho
+ /onedirctry
+
